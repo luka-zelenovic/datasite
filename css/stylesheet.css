@@ -517,6 +517,7 @@ a.tip2:hover span {
 	}
 	.sec1 {
 		background-size: cover;
+			 height: 100vh;
 	}
 	
 	.start {
