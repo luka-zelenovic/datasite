@@ -89,7 +89,7 @@ p {
   background-color: #f7f4f3;
   font-family: 'FiraSansR', 'FrankRuhlLibreR', Arial;
   position: absolute;
-	top: 99%;
+	top: 100%;
   left: 0%;
 	 box-shadow: 0 2px 1px -1px #999;
 }
@@ -312,6 +312,7 @@ font-family: "FrankRuhlLibreM";
 .titlovi {
 	width: 100%;
 	padding: 0;
+	margin: 0;
 	
 }
 .pbot {
@@ -513,11 +514,13 @@ a.tip2:hover span {
 	}
 	.spec4 {
 		width: 100%;
-		height: 90%;
+		height: 100%;
 	}
 	.sec1 {
-		background-size: cover;
-			 height: 100vh;
+		 height: 100vh;
+  background: url('../assets/bg.gif') no-repeat center center ;
+   background-size: cover;
+  background-color: #f7f4f3;
 	}
 	
 	.start {
